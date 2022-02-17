@@ -1,0 +1,7 @@
+<<<<<<< HEAD
+bob
+=======
+test merge file test test
+cool test
+
+>>>>>>> testMerge
